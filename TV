@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://imgur.com/F2uzttZ.png" group-title="Reality", LCDLF 1
-https://telemundolive.akamaized.net/hls/live/2093200/LCDLFCAM11/master_main1.m3u8
+https://live2.eu-north-1a.cf.dmcdn.net/sec2(Q_xYfben5pY2s5y5Mp0OEGF3PiLr4Wz0JxCnHgc_UW00zkBfwiQbY5liGTTDcceyjBGWffpT6tGouyuaOuaZQEROxdYGRrEIb9JJlBqd58rID9X2S_0JXFABK5Yo_Jms)/cloud/3/x9nzqpo/d/live-720.m3u8#cell=lcf2-eu-north-1a
 #EXTINF:-1 tvg-logo="https://imgur.com/F2uzttZ.png" group-title="Reality", LCDLF 2
 https://telemundolive.akamaized.net/hls/live/2093200/LCDLFCAM22/master_main1.m3u8
 #EXTINF:-1 tvg-logo="https://imgur.com/BT1f1ER.png" group-title="TV PREMIUM",Locomotion
